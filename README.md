@@ -6,7 +6,7 @@ Game Review
 **Goal:** create a Ruby on Rails application which will be used like a game review site.
 
 **Realize next features:**
-- User registration, sign-in, logut should use the Devise gem.
+- User registration, sign-in, logout should use the Devise gem.
 - Users can create Reviews (text only).
 - Users can Comment on Reviews.
 - Posts should always display with the post content, author and comments.
