@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Game Review
+-
 
-Things you may want to cover:
+**Goal:** create a Ruby on Rails application which will be used like a game review site.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Realize next features:**
+- User registration, sign-in, logut should use the Devise gem.
+- Users can create Reviews (text only).
+- Users can Comment on Reviews.
+- Posts should always display with the post content, author and comments.
+- Users can create a Profile with a Photo.
+- The User Show page contains their Profile information, photo, and Reviews.
+- Users can vote for game reviews they are waiting for.
+- Deploy App to Heroku.
